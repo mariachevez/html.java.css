@@ -1,0 +1,58 @@
+.text-coral{
+    color: coral
+}
+
+.text-cornflowerblue{
+    color: cornflowerblue
+}
+
+h1{
+    background-color: lightpink;
+    margin-bottom: 20px;
+    border: 3px solid brown; 
+    font-size: 30;
+    font-weight: bold;
+}
+
+h2{
+    background-color: lightpink;
+    margin-bottom: 20px;
+    border: 3px solid blueviolet; 
+    font-size: 30;
+    font-weight: bold;
+
+}
+
+ body{
+     font-family:  Georgia, Times, 'Times New Roman', serif;
+
+ }
+
+p{
+    font-size: 20px;
+    font-style: italic;
+
+}
+
+ul{
+    font-size: 20px;
+    font-style: italic;
+}
+.text-subtitulos{
+    font-weight: bold;
+    color: blueviolet
+    
+
+}
+
+.text-importante{
+    color:brown
+}
+
+.box{
+    width: 5px;
+    height: 5px;
+    background-color: brown;
+    margin: 10px;
+    float:left;
+}
